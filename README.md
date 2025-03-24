@@ -53,7 +53,7 @@ CSI is essential for **beamforming, link adaptation, and resource allocation** i
 
 📸 **Sample Visualizations:**  
 🚧 *Noisy CSI → Denoised CSI (Using GANs)*  
-![Denoised CSI Output]("C:\Users\rapur\Pictures\Screenshots\Screenshot 2025-03-24 231736.png")
+![Denoised CSI Output](Screenshot 2025-03-24 231736.png)
 
 ---
 
