@@ -59,7 +59,7 @@ Noisy CSI vs. Denoised CSI (Using GANs):
 ---
 
 ## Progress So Far  
-- **Occlusion Estimation Module** implemented  
+
 - **Training completed** on synthetic CSI datasets  
 - **Fine-tuning GAN architecture** for better accuracy  
 
